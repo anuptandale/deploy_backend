@@ -5,7 +5,6 @@
  * Add your middlewares here if you wants to do something with data before sending it to user.
  */
 
-const { logger } = require('../logs/logger');
 
 const { NODE_ENV } = process.env;
 
