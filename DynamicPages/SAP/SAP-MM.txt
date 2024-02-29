@@ -1,0 +1,31 @@
+Brief Job Advertisement for SAP MM Developer at SkillCapital
+
+SkillCapital, a leading provider of SAP solutions, is seeking a highly skilled and experienced SAP MM Developer to join our dynamic team. The ideal candidate will have a strong understanding of SAP MM modules and a proven track record of delivering successful projects.
+
+Preferred Skills for SAP MM Developer
+
+1. Expertise in SAP MM modules, including purchasing, inventory management, and material master data.
+2. Strong knowledge of SAP ERP systems and related technologies.
+3. Experience in customizing and configuring SAP MM to meet specific business requirements.
+4. Excellent communication and interpersonal skills.
+5. Ability to work independently and as part of a team.
+6. Problem-solving and analytical skills.
+
+Job Requirements for SAP MM Developer
+
+1. Minimum experience of 3 years or a highly skilled fresher in SAP MM.
+2. Strong understanding of SAP MM processes and best practices.
+3. Experience in implementing and supporting SAP MM solutions.
+4. Ability to work with cross-functional teams, including finance, logistics, and IT.
+5. Excellent communication and presentation skills.
+6. Ability to travel occasionally.
+
+Roles and Responsibilities for SAP MM Developer
+
+1. Develop and maintain SAP MM configurations to meet business requirements.
+2. Manage master data, including materials, vendors, and purchasing info records.
+3. Process purchase orders, goods receipts, and invoices.
+4. Monitor inventory levels and manage stock transfers.
+5. Conduct variance analysis and identify cost-saving opportunities.
+6. Provide support to users and resolve SAP MM-related issues.
+

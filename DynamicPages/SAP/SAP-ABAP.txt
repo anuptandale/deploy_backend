@@ -1,0 +1,31 @@
+Brief Job Advertisement for SAP ABAP at SkillCapital
+
+SkillCapital is seeking a highly skilled and experienced SAP ABAP professional to join our dynamic team. The ideal candidate will have a strong understanding of SAP ABAP programming and a proven track record of delivering successful projects.
+
+Roles and Responsibilities for SAP ABAP
+
+1. Develop, test, and maintain ABAP programs and reports.
+2. Analyze and optimize ABAP code for performance and efficiency.
+3. Work closely with business users to gather requirements and translate them into technical solutions.
+4. Provide technical support and guidance to end-users.
+5. Stay up-to-date with the latest ABAP technologies and best practices.
+6. Participate in code reviews and knowledge-sharing sessions.
+
+Job Requirements for SAP ABAP
+
+1. Minimum experience of 3 years or a highly skilled fresher in SAP ABAP programming.
+2. Strong knowledge of ABAP syntax, data types, and control structures.
+3. Experience in developing ABAP reports, screens, and dialog programs.
+4. Familiarity with SAP ABAP debugging tools and techniques.
+5. Good understanding of SAP ABAP performance optimization techniques.
+6. Excellent communication and teamwork skills.
+
+Preferred Skills for SAP ABAP
+
+1. Experience in working with SAP HANA and SAP Fiori.
+2. Knowledge of SAP ABAP OO programming.
+3. Experience in SAP ABAP unit testing and test-driven development.
+4. Familiarity with SAP ABAP security concepts and authorization objects.
+5. Experience in SAP ABAP Web Dynpro programming.
+6. Knowledge of SAP ABAP integration with other SAP modules.
+

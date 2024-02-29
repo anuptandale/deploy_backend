@@ -1,0 +1,34 @@
+Preferred Skills for SAP Fiori Developer
+
+1. SAP Fiori development experience
+2. Strong understanding of SAP UI5 and OData
+3. Experience with SAP Gateway and SAP NetWeaver
+4. Familiarity with SAP HANA and SAP Cloud Platform
+5. Knowledge of JavaScript, HTML, and CSS
+6. Experience with Agile development methodologies
+7. Good communication and teamwork skills
+
+Job Requirements for SAP Fiori Developer
+
+1. Minimum 3 years of experience in SAP Fiori development or a highly skilled fresher.
+2. Strong understanding of SAP UI5 and OData.
+3. Experience in working with SAP Gateway and SAP HANA.
+4. Good knowledge of JavaScript, HTML, and CSS.
+5. Experience in working with Agile development methodologies.
+6. Good communication and teamwork skills.
+7. Ability to work independently and as part of a team.
+
+Brief Job advertisement for SAP Fiori Developer
+
+SkillCapital, a leading provider of innovative technology solutions, is seeking a talented and experienced SAP Fiori Developer to join our team. The ideal candidate will have a strong understanding of SAP Fiori principles and experience in developing and implementing user interfaces using SAPUI5 and OData. Excellent communication and teamwork skills are essential. Join us and be part of shaping the future of enterprise software development. Apply now!
+
+Roles and Responsibilities for SAP Fiori Developer
+
+1. Design and develop user interfaces for SAP Fiori applications using SAPUI5 and other relevant technologies.
+2. Collaborate with business analysts, designers, and other stakeholders to gather requirements and translate them into technical specifications.
+3. Implement SAP Fiori applications using SAP Cloud Platform and other relevant platforms.
+4. Test and debug SAP Fiori applications to ensure they meet functional and performance requirements.
+5. Deploy and maintain SAP Fiori applications in production environments.
+6. Provide ongoing support and enhancements to SAP Fiori applications.
+7. Stay up-to-date with the latest SAP Fiori technologies and best practices.
+

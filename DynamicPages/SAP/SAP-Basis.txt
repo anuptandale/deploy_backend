@@ -1,0 +1,31 @@
+Brief Job Advertisement for SAP Basis Developer at SkillCapital
+
+SkillCapital is seeking a highly skilled and experienced SAP Basis Developer to join our dynamic team. The ideal candidate will have a strong understanding of SAP Basis administration and a proven track record of success in implementing and maintaining SAP systems.
+
+Roles and Responsibilities for SAP Basis Developer
+
+1. Manage and maintain SAP systems, including hardware, software, and network infrastructure.
+2. Perform system upgrades, migrations, and data conversions.
+3. Troubleshoot and resolve technical issues related to SAP systems.
+4. Provide technical support to SAP users and administrators.
+5. Monitor system performance and implement performance improvements.
+6. Stay up-to-date with the latest SAP Basis technologies and best practices.
+
+Job Requirements for SAP Basis Developer
+
+1. Minimum experience of 3 years or a highly skilled fresher in SAP Basis administration.
+2. Strong understanding of SAP Basis architecture and components.
+3. Experience with SAP HANA, SAP NetWeaver, and SAP Solution Manager.
+4. Knowledge of operating systems, databases, and networking.
+5. Excellent problem-solving and analytical skills.
+6. Strong communication and teamwork skills.
+
+Preferred Skills for SAP Basis Developer
+
+1. Experience with SAP S/4HANA.
+2. Knowledge of cloud computing and virtualization technologies.
+3. Experience with SAP security and compliance.
+4. Experience with SAP automation tools and scripts.
+5. Knowledge of SAP Fiori and SAPUI5.
+6. Experience with SAP HANA Live.
+

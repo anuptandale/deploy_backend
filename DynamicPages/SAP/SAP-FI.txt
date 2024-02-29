@@ -1,0 +1,36 @@
+Brief Job advertisement for SAP FI Developer
+
+SkillCapital, a leading provider of SAP solutions, is seeking an experienced SAP FI Developer to join our team. The ideal candidate will have a strong understanding of SAP FI and experience in developing and implementing SAP FI solutions. Responsibilities include designing, developing, testing, and implementing SAP FI solutions, as well as providing support to users. The successful candidate will have excellent communication and teamwork skills, and be able to work independently and as part of a team. 
+
+Preferred Skills for SAP FI Developer
+
+1. SAP FI (Financial Accounting) module expertise
+2. Strong understanding of accounting principles and financial reporting
+3. Experience with SAP S/4HANA Finance
+4. Knowledge of SAP FICO (Financial Accounting and Controlling)
+5. Familiarity with SAP ERP Central Component (ECC)
+6. Experience with SAP Business Warehouse (BW)
+7. Proficiency in ABAP programming
+8. Excellent communication and teamwork skills 
+
+Job Requirements for SAP FI Developer
+
+1. Minimum 3 years of experience in SAP FI or a highly skilled fresher.
+2. Strong understanding of SAP FI concepts and processes, including financial accounting, accounts payable, accounts receivable, and asset management.
+3. Experience with SAP FI configuration and customization.
+4. Experience with SAP FI reporting and analysis.
+5. Excellent communication and interpersonal skills.
+6. Ability to work independently and as part of a team.
+7. Strong problem-solving and analytical skills.
+8. Proficiency in Microsoft Office Suite. 
+
+Roles and Responsibilities for SAP FI Developer
+
+1. Develop, test, and implement SAP FI (Financial Accounting) modules and applications.
+2. Analyze and design financial processes and systems to meet business requirements.
+3. Configure and customize SAP FI settings to meet specific accounting and reporting needs.
+4. Troubleshoot and resolve SAP FI-related issues and errors.
+5. Provide technical support and guidance to end-users on SAP FI functionality.
+6. Stay up-to-date with the latest SAP FI updates and technologies.
+7. Work closely with other IT professionals, finance teams, and stakeholders to ensure successful SAP FI implementations. 
+

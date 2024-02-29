@@ -1,0 +1,43 @@
+# Dependency directories
+node_modules/
+chngeformat.js
+excel.js
+index.html
+u.json
+uu.json
+xlformat.json
+xyz.json
+zoho.js
+addDatatoZoho.js
+extractedData/ 
+test.csv
+gtp.js
+company.js
+Junk/
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+
+# Testing
+coverage
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+

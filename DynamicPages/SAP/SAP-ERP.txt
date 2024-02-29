@@ -1,0 +1,36 @@
+Job Requirements for SAP ERP Developer
+
+1. Minimum 3 years of experience in SAP ERP development or a highly skilled fresher.
+2. Strong understanding of SAP ERP modules, including FI, CO, MM, SD, and HR.
+3. Experience in ABAP programming and development.
+4. Knowledge of SAP HANA and its use in ERP.
+5. Experience in SAP Fiori development.
+6. Strong analytical and problem-solving skills.
+7. Excellent communication and teamwork skills.
+
+Brief Job Advertisement for SAP ERP Developer at SkillCapital
+
+SkillCapital, a leading provider of enterprise resource planning (ERP) solutions, is seeking an experienced SAP ERP Developer to join our team. The ideal candidate will have a strong understanding of SAP ERP systems and experience in developing and implementing custom solutions. Responsibilities include designing, developing, testing, and deploying SAP ERP solutions, as well as providing ongoing support and maintenance. The successful candidate will be a team player with excellent communication and problem-solving skills.
+
+Preferred Skills for SAP ERP Developer
+
+1. SAP ERP (ECC) modules experience, such as FI, CO, MM, SD, PP, and HR
+2. Strong understanding of SAP ERP architecture, data structures, and business processes
+3. Experience in customizing and configuring SAP ERP systems
+4. Knowledge of ABAP programming and development
+5. Experience in SAP ERP system integration and interfacing
+6. Familiarity with SAP ERP security and authorization concepts
+7. Experience in SAP ERP system administration and maintenance
+8. Good communication and teamwork skills
+
+Roles and Responsibilities for SAP ERP Developer
+
+1. Develop, test, and implement SAP ERP solutions.
+2. Analyze and understand business requirements to design and configure SAP ERP systems.
+3. Customize and extend SAP ERP functionality using ABAP programming language.
+4. Perform data migration and conversion tasks during SAP ERP implementations.
+5. Troubleshoot and resolve technical issues related to SAP ERP systems.
+6. Provide ongoing support and maintenance to SAP ERP systems.
+7. Collaborate with cross-functional teams including business users, IT professionals, and other developers.
+8. Stay up-to-date with the latest SAP ERP technologies and best practices.
+
